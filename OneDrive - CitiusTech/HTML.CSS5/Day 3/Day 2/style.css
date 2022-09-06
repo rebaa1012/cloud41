@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(25,125,41);
+}
+img{
+    float:left;
+}
+.bdiv{
+    border-style: solid;
+}
+.left{
+    float:left;
+    width:50%;
+    height:410px;
+    background-color: blueviolet
+    margin-top:2.5px;
+    border-right:5px solid;
+}
+.right{
+    float:right;
+    width: 49.5%;
+    height:450px
+}

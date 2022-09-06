@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(182, 240, 7);
+}
+.a1{
+    text-align:center;
+    font-size:small;
+}
+.bdiv{
+    background-color:plum;
+}
+.b1{
+    font-weight: bold;
+}
+.left{
+    font-style: italic;
+    padding-left: 40px;
+}
+.c1{font-style:italic
+}
